@@ -1,0 +1,5 @@
+This is information about the project.
+
+It is slightly different than the README 'cause I said so.
+
+This file was created by LHerz.
