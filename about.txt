@@ -1,0 +1,4 @@
+This is information about the project.
+
+It is slightly different than the readme 'cause I said so.
+
